@@ -1,3 +1,4 @@
+[![Promo](https://brightdata.com/static/github_promo_15.png?md5=105367-daeb786e)](https://brightdata.com/?promo=github15) 
 # PHP Proxy Server: How to Set Up Proxies in PHP
 
 Learn how to set up a proxy in PHP using cURL, `file_get_contents()`, and Symfony. You'll also see how to use Bright Data's [residential proxies](https://brightdata.com/proxy-types/residential-proxies) in PHP for web scraping and IP rotation. This guide is also available on the [Bright Data blog](https://brightdata.com/blog/how-tos/php-proxy-servers).
